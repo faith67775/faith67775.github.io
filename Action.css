@@ -1,0 +1,44 @@
+body {
+background-color: #FFF;
+margin: 2;
+padding: 0;
+height: 900px;
+width: 100%;
+background: url("http://wallpapercave.com/wp/hUukl3e.jpg") no-repeat center bottom;
+background-size: cover;
+background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  font-size: 49px;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+}
+
+h3 {
+  text-align: center;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+}
+
+h4 {
+  font-size: 28px;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+}
+
+h5 {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+}
+
+.Curfew img {
+  margin: 0 auto;
+  position: absolute;
+  display: block;
+  height: 600px;
+  width: 50%;
+}

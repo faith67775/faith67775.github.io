@@ -1,0 +1,41 @@
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+  color: (255, 255, 255);
+}
+
+h1 {
+  text-align: center;
+  font-size: 49px;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+}
+
+p {
+  font-size: 21px;
+}
+
+ul {
+  font-size: 21px;
+}
+
+  body {
+  background-color: #FFF;
+  margin: 1.5;
+  padding: 0;
+  height: 900px;
+  width: 100%;
+  background: url("http://images.all-free-download.com/images/graphiclarge/sky_with_clouds_clip_art_22484.jpg") no-repeat center bottom;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.Children img {
+  margin: 0 auto;
+  position: relative;
+  align: center;
+  display: block;
+  height: 600px;
+  width: 50%;
+}
