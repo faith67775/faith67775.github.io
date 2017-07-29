@@ -28,3 +28,11 @@ h4 {
   font-weight: bold;
   font-family: 'Merriweather', serif;
 }
+
+.Ariel img {
+  margin: 0 auto;
+  position: relative;
+  display: block;
+  height: 100px;
+  width: 50%;
+}
