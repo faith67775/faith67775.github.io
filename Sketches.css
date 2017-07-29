@@ -33,5 +33,6 @@ h4 {
   margin: 0 auto;
   position: relative;
   display: block;
-  height: 100px;
+  height: 500px;
+  width: 500px;
 }
